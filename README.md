@@ -77,5 +77,4 @@ Contributions are welcome! Please follow these steps:
 
 ## Contact
 
-For any questions, contact me at [your.email@example.com](mailto:your.email@example.com).
-
+For questions or inquiries, please contact us at [prathamesh0755@gmail.com](mailto:prathamesh0755@gmail.com).
