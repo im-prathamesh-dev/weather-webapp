@@ -41,19 +41,19 @@ search.addEventListener('click', () => {
                     break;
 
                 case 'Rain':
-                    image.src = 'images/rain.png';
+                    image.src = 'https://cdn-icons-png.flaticon.com/128/2469/2469994.png';
                     break;
 
                 case 'Snow':
-                    image.src = 'images/snow.png';
+                    image.src = 'https://cdn-icons-png.flaticon.com/128/2315/2315309.png';
                     break;
 
                 case 'Clouds':
-                    image.src = 'images/cloud.png';
+                    image.src = 'https://cdn-icons-png.flaticon.com/128/414/414927.png';
                     break;
 
                 case 'Haze':
-                    image.src = 'images/mist.png';
+                    image.src = 'https://cdn-icons-png.flaticon.com/128/1779/1779807.png';
                     break;
 
                 default:
